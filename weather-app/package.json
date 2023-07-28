@@ -8,10 +8,12 @@
   },
   "author": "",
   "license": "ISC",
+  "dependencies": {
+    "postman-request": "^2.88.1-postman.33"
+  },
   "devDependencies": {
     "eslint": "^8.45.0",
     "eslint-config-airbnb-base": "^15.0.0",
-    "eslint-plugin-import": "^2.27.5",
-    "postman-request": "^2.88.1-postman.33"
+    "eslint-plugin-import": "^2.27.5"
   }
 }
